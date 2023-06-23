@@ -1,0 +1,16 @@
+:root {
+    --primary: #1C2127;
+    --black-tin: #A7B1BC
+}
+
+@font-face {
+    src: url("/src/assets/fonts/Satoshi-Regular.otf");
+    font-weight: 400;
+    font-family: Satoshi;
+}
+
+*,
+html,
+body {
+    font-family: Satoshi, sans-serif !important;
+}

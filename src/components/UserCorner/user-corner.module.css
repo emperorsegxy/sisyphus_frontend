@@ -1,0 +1,11 @@
+.userCornerWrap {
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: transparent;
+}
+
+@media (min-width: 768px) {
+    .userCornerWrap {
+        background: #12171D;
+    }
+}
