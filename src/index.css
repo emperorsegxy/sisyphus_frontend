@@ -1,11 +1,18 @@
 :root {
     --primary: #1C2127;
-    --black-tin: #A7B1BC
+    --black-tin-3: #A7B1BC;
+    --chart-green: #00C076
 }
 
 @font-face {
     src: url("/src/assets/fonts/Satoshi-Regular.otf");
     font-weight: 400;
+    font-family: Satoshi;
+}
+
+@font-face {
+    src: url("/src/assets/fonts/Satoshi-Medium.otf");
+    font-weight: 500;
     font-family: Satoshi;
 }
 

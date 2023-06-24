@@ -1,4 +1,5 @@
 import Home from "../views/Home";
+// import {createBrowserRouter} from "react-router-dom";
 
 const router = [
     {
